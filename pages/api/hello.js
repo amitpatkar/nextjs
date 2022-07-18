@@ -2,5 +2,5 @@
 
 export default function handler(req, res) {
   console.log("Amit Patkar");
-  res.status(200).json({ name: 'Amit Patkar' })
+  res.status(200).json({ name: 'Amit Patkar 2' })
 }
